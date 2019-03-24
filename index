@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>羅友宏的個人頁面<title>
+</head>
+
+<body>
+    <h1>上課練習</h1>
+    <p>練習</p>
+    <!-- 連結 -->
+    <a href="../practice.html">
+    插入圖片、連結與超連結</a>
+    <br>
+    <a href="../img.html">
+    插入圖片</a>
+    <br>
+    <a href="../table">
+    插入表格</a>
+    <br>
+
+    <h2>回家練習</h2>
+    <a href="https://yhlo.github.com/FP_p1/>
+    課表練習</a>
+    <br>
+    <a href="https://yhlo.github.com/FP_p2/">
+    個人頁面練習</a>
+
+</body>
+
+</html>
