@@ -1,0 +1,37 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+    font-family: Microsoft JhengHei;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: Microsoft JhengHei;
+    font-size: 16px;
+}
+
+table {
+    text-align: center;
+    padding: 20px;
+    color: black;
+    border-style: dotted;
+    font-weight: bold;
+    font-family: DFKai-sb;
+}
+
+thead {
+    background-color: #E3D0D8;
+}
+
+thead th {
+    width: 10%;
+}
+
+tbody th {
+    border-width: 2px;
+    background-color: #DCD8DC
+}
+
+tbody td {
+    background-color: #C6D2ED
+}

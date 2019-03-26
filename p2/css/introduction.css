@@ -1,0 +1,25 @@
+#photo1 {
+    height:300px;
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    background-image: url(../img/S__9830498.jpg);
+    background-size: cover;
+    box-shadow: 11px 11px 20px 0px black;
+}
+
+body {
+    background-color: #7cd7f3;
+    /* background-image: url(../img/IMG_4504.jpg); */
+    /* background-attachment: inherit; */
+    /* background-size: 50%; */
+    /* background-position: 50% 50%; */
+    /* background-repeat: no-repeat; */
+}
+
+p,
+h1 {
+    font-size: 30pt;
+    font-family: Microsoft JhengHei;
+}
